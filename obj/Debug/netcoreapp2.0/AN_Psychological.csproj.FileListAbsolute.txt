@@ -1,0 +1,4 @@
+C:\Users\logonrmlocal\Desktop\AN_Psychological\obj\Debug\netcoreapp2.0\AN_Psychological.csprojAssemblyReference.cache
+C:\Users\logonrmlocal\Desktop\AN_Psychological\obj\Debug\netcoreapp2.0\AN_Psychological.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\Desktop\AN_Psychological\obj\Debug\netcoreapp2.0\AN_Psychological.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\Desktop\AN_Psychological\obj\Debug\netcoreapp2.0\AN_Psychological.AssemblyInfo.cs
